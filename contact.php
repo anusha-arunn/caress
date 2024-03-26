@@ -24,7 +24,7 @@ if (!$event) $errors[count($errors)] = 'Please select an Event.';
 if (!$errors) {
 
 	//recipient - replace your email here
-	$to = 'ansha.nandi@gmail.com';	
+	$to = 'anchu.nandi@gmail.com';	
 	
 	$from = $name . ' <' . $email . '>';
 	
